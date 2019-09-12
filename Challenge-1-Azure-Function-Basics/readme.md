@@ -19,6 +19,7 @@ functions and deploy it into Azure.
 
 ## Challenge
 
+### Creat a local function
 Your first goal is to create and debug an HTTP
 triggered Azure Function locally on your own development machine. This
 function has the following requirements:
@@ -26,15 +27,15 @@ function has the following requirements:
 * **Verb**: GET
 * **Input parameters**: A `productId` value is passed to it as a
 query parameter or an HTTP route
-* **Result**: "The product name for your product id
-{productId} is Starfruit Explosion"
+* **Response**: "The product name for your product id
+{`productId`} is Starfruit Explosion"
 
+### Deploy to Azure
 The second goal is to create an Azure Resource
-Group in your Azure Subscription, and then deploy the function to Azure. Finally, test the
-function after it has been deployed.
+Group in your Azure Subscription, and deploy the function to Azure. Test the
+function after it has been deployed to verify that it works.
 
 **Make sure to use different, unique Function App names!**
-
 
 ## Success Criteria
 
