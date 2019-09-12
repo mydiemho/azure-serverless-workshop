@@ -19,7 +19,7 @@ functions and deploy it into Azure.
 
 ## Challenge
 
-### Creat a local function
+### Create a local function
 Your first goal is to create and debug an HTTP
 triggered Azure Function locally on your own development machine. This
 function has the following requirements:
