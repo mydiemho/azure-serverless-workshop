@@ -1,17 +1,7 @@
 # Challenge 1 - Create and deploy your first Azure Function
 
-Serverless computing allows for scalable and reliable event-based
-processing for code and workflows. It accelerates the development
-of applications while hiding the infrastructure and providing
-auto-scale and micro-billing. Serverless technologies like Azure
-Functions, Logic Apps, API Managememt and Event Grid are some of 
-the services being adopted by development teams in startups, ISVs, 
-and enterprises to implement new or extend existing solutions. 
-Companies that adopt serverless benefit from a fast time to market 
-and only pay for what they use.
-
 In this challenge you will create your first serverless
-functions and deploy it into Azure.
+function and deploy it into Azure.
 
 ## Prerequisites
 
@@ -60,3 +50,6 @@ function and receive a successful response.
 
   [Code and test Azure Functions locally](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-local)
 
+## Next Challenge
+
+Once you have your function working and deployed, proceed to the next challenge and begin - [Cosmos DB and Azure Functions](..//Challenge-2-Cosmos-DB-and-Azure-Functions/readme.md).
