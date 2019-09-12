@@ -14,12 +14,10 @@ In this challenge you will create your first serverless
 functions and deploy it into Azure.
 
 ## Prerequisites
------
 
 [TODO: Refresh this content]
 
 ## Challenge
------
 
 Your first goal is to create and debug an HTTP
 triggered Azure Function locally on your own development machine. This
@@ -39,7 +37,7 @@ function after it has been deployed.
 
 
 ## Success Criteria
-------
+
 The following goals must be met to successfully complete this challenge:
 
 
