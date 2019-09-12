@@ -1,3 +1,13 @@
+---
+page_type: sample
+languages:
+- javascript
+products:
+- azure
+description: "Best For You Organics Company (BFYOC) is an ice cream company with over 200 stores worldwide. BFYOC has focused on fresh ingredients, locally sourced, and seasonal."
+urlFragment: serverless-workshop 
+---
+
 # Serverless Pre-Day Workshop
 
 <img style="float: right;" height="160" src="https://serverlessoh.azureedge.net/public/ice-cream-2202561_320-circle.jpg" />
