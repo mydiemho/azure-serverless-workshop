@@ -1,4 +1,4 @@
-# Serverless Pre-Day Workshop
+# Azure Serverless Workshop
 
 <img style="float: right;" height="160" src="https://serverlessoh.azureedge.net/public/ice-cream-2202561_320-circle.jpg" />
 
