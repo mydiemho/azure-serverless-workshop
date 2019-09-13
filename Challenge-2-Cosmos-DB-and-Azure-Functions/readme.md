@@ -6,7 +6,7 @@ BFYOC would like you to create the APIs that enable business users to add and re
 
 ![Functions and Cosmos DB](../Images/challenge-2.png)
 
-The diagram above shows how Azure Functions will be leveraged to provide the APIs for the clients. Cosmos DB will be the database to persist all the product and relevant information.
+The diagram above shows how [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) will be leveraged to provide the APIs for the clients. [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/) will be the database to persist all the product and relevant information.
 
 ## Challenge
 
