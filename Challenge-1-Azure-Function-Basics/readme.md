@@ -1,7 +1,11 @@
 # Challenge 1 - Create and deploy your first Azure Function
 
+Best For You Organics Company (BFYOC) is ready to begin their serverless journey and has decided to start with Azure Functions. Their first step will be to setup their developers with the tools and configuration necessary to create and test their code locally.
+
 In this challenge you will create your first serverless
-function and deploy it into Azure.
+function and deploy it to Azure.
+
+![Azure Functions](https://miro.medium.com/max/733/1*yqwkTUnnp-OmSqSelnW-LA.png)
 
 ## Prerequisites
 
@@ -10,6 +14,7 @@ function and deploy it into Azure.
 ## Challenge
 
 ### Create a local function
+
 Your first goal is to create and debug an HTTP
 triggered Azure Function locally on your own development machine. This
 function has the following requirements:
@@ -19,11 +24,18 @@ function has the following requirements:
 query parameter or an HTTP route
 * **Response**: "The product name for your product id
 {`productId`} is Starfruit Explosion"
+* **Sample request**:
+
+    ``` JSON
+    GET https://localhost:7071/api/{your-function-name}?productId=2424
+    ```
 
 ### Deploy to Azure
-The second goal is to create an Azure Resource
-Group in your Azure Subscription, and deploy the function to Azure. Test the
-function after it has been deployed to verify that it works.
+
+The second goal is to create a Resource Group in your Azure Subscription, and deploy the function to Azure. To complete this goal, the following requirements must be satisfied:
+
+* **Create a Function App**: Create a new Function App that is hosted on the Consumption Plan.
+* **Deploy and Test**: Deploy your new function to the Function App.
 
 **Make sure to use different, unique Function App names!**
 
@@ -31,16 +43,11 @@ function after it has been deployed to verify that it works.
 
 The following goals must be met to successfully complete this challenge:
 
-
-* Demonstrate that you created an HTTP triggered
-Azure Function locally that accepts a GET verb. Show that you
-can call that function and receive a successful response with the right text
-provided and the value of `productId` properly filled in.
+* Demonstrate that you created an HTTP triggered Azure Function locally that accepts a GET verb. Show that you can call that function and receive a successful response with the right text provided and the value of `productId` properly filled in.
 
 * Show that you deployed that HTTP triggered
 Azure Function to Azure. Call that deployed
 function and receive a successful response.
-
 
 ## References
 
