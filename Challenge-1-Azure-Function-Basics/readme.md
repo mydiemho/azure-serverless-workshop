@@ -27,7 +27,7 @@ query parameter or an HTTP route
 * **Sample request**:
 
     ``` JSON
-    GET https://localhost:7071/api/{your-function-name}?productId=2424
+    GET https://localhost:7071/api/<your-function-name>?productId=2424
     ```
 
 ### Deploy to Azure
