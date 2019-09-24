@@ -4,6 +4,10 @@ At Best For You Organics Company (BFYOC), customer satisfaction is of the utmost
 
 BFYOC would like you to use [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) as the workflow engine and integration platform to connect all the necessary pieces for this new feature.
 
+![Functions and Cosmos DB](../Images/challenge3.png)
+
+The image above highlights the Azure services that will be leveraged to complete this challenge.
+
 ## Challenge
 
 ### Create a HTTP triggered Logic App
