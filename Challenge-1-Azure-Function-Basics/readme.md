@@ -9,7 +9,15 @@ function and deploy it to Azure.
 
 ## Prerequisites
 
-[TODO: Refresh this content]
+* A modern laptop running Windows 10, Mac OSX, Mac OS X 10.12 or higher
+* Your preferred IDE (integrated development environment). Recommendations:
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Visual Studio](https://visualstudio.microsoft.com/)
+  * [Eclipse](https://www.eclipse.org/downloads/packages/)
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/download)
+* .NET - [.NET Core 2.1 SDK or higher](https://dotnet.microsoft.com/download)
+* JavaScript - [NodeJS](https://nodejs.org/en/) (8.11.1 or 10.14.11 recommended)
+* [Azure Functions Core Tools](https://github.com/Azure/azure-functions-core-tools#installing)
 
 ## Challenge
 
@@ -59,6 +67,11 @@ function and receive a successful response.
 * [Azure Functions HTTP and webhook bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook)
 * [Azure Functions with Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code)
 * [Azure Functions with Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
+* [Create your first Azure function with Java and IntelliJ](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
+* [Create your first Azure function with Java and Eclipse](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-maven-eclipse)
+* [Quickstart: Use Java to create and publish a function to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven)
+* [Python: Create an HTTP triggered function in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python)
+* [Create your first PowerShell function in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-powershell)
 
 ## Next Challenge
 
