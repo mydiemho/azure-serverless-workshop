@@ -2,10 +2,10 @@
 
 Best For You Organics Company (BFYOC) is ready to begin their serverless journey and has decided to start with Azure Functions. Their first step will be to setup their developers with the tools and configuration necessary to create and test their code locally.
 
+![Functions and Cosmos DB](../Images/challenge1.png)
+
 In this challenge you will create your first serverless
 function and deploy it to Azure.
-
-![Functions and Cosmos DB](../Images/challenge1.png)
 
 ## Prerequisites
 
@@ -26,8 +26,8 @@ query parameter or an HTTP route
 {`productId`} is Starfruit Explosion"
 * **Sample request**:
 
-    ``` JSON
-    GET https://localhost:7071/api/<your-function-name>?productId=2424
+    ``` 
+    GET http://localhost:7071/api/<your-function-name>?productId=2424
     ```
 
 ### Deploy to Azure

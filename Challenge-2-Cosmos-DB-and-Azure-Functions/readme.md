@@ -2,7 +2,7 @@
 
 Best For You Organics Company (BFYOC) has begun the creation of a mobile application and website, both of which will be used to update products and submit feedback for their ice cream. The website and application will be calling a set of APIs.
 
-BFYOC would like you to create the APIs that enable business users to add and retrieve information about their products.
+BFYOC would like you to create the APIs that enable users to add and retrieve information about their products.
 
 ![Functions and Cosmos DB](../Images/challenge-2.png)
 
