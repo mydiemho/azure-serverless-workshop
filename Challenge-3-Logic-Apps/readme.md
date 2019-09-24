@@ -57,9 +57,9 @@ BFYOC would like to notify their customer service representatives immediately if
 
 ## Success Criteria
 
-* Invoke the Logic App with a HTTP request from a client such as cURL or Postman.
+* Invoke the Logic App with a HTTP request from a client such as [cURL](https://curl.haxx.se/) or [Postman](https://www.getpostman.com/).
 * Test with both negative and positive feedback results.
-* Confirm that emails are sent only for scores below `.70'.
+* Confirm that emails are sent only for scores below `.70`.
 * Review and inspect the run history of the Logic App to validate the results.
 
 ## References
