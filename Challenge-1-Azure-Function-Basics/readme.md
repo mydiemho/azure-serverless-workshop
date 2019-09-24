@@ -5,7 +5,7 @@ Best For You Organics Company (BFYOC) is ready to begin their serverless journey
 In this challenge you will create your first serverless
 function and deploy it to Azure.
 
-![Azure Functions](https://miro.medium.com/max/733/1*yqwkTUnnp-OmSqSelnW-LA.png)
+![Functions and Cosmos DB](../Images/challenge1.png)
 
 ## Prerequisites
 
